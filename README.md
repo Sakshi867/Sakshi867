@@ -45,5 +45,5 @@ A smart price comparison platform designed to help users make budget-aware purch
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: linkedin.com/in/your-link
-- GitHub: github.com/yourusername
+- LinkedIn: www.linkedin.com/in/sakshi-s-kumar-421a55350
+- GitHub: github.com/Sakshi867 
